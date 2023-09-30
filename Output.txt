@@ -1,0 +1,55 @@
+Enter path of file: 
+C:\\Users\\abhay\\Downloads\\Assignment_Timecard.xlsx - Sheet1.csv
+
+Select an option:
+1. Analyze employees who worked for 7 consecutive days
+2. Analyze employees with less than 10 hours between shifts but greater than 1 hour
+3. Analyze employees who worked for more than 14 hours in a single shift
+4. Exit
+1
+
+Employee Name: Sparks, KeWWeMh
+PositionId :WFS000101
+Reason: Worked 7 consecutive days 
+
+Employee Name: SiWgh, JaspreeM
+PositionId :WFS000424
+Reason: Worked 7 consecutive days 
+
+Employee Name: CEreira Jr, JEse
+PositionId :WFS000456
+Reason: Worked 7 consecutive days 
+
+Employee Name: GAeWdia, JAaW CarXEs
+PositionId :WFS000473
+Reason: Worked 7 consecutive days 
+
+Select an option:
+1. Analyze employees who worked for 7 consecutive days
+2. Analyze employees with less than 10 hours between shifts but greater than 1 hour
+3. Analyze employees who worked for more than 14 hours in a single shift
+4. Exit
+2
+
+Employee: CaMaXaWE, CeghaW
+PositionId :WFS000153
+Reason: Employees with less than 10 hours between shifts but greater than 1 hour 
+
+Select an option:
+1. Analyze employees who worked for 7 consecutive days
+2. Analyze employees with less than 10 hours between shifts but greater than 1 hour
+3. Analyze employees who worked for more than 14 hours in a single shift
+4. Exit
+3
+
+Employee: DeXgadiXXE REdarMe, ChrisMiaW S
+PositionId: WFS000523
+Reason: Employee who worked for more than 14 hours in a single shift
+
+Select an option:
+1. Analyze employees who worked for 7 consecutive days
+2. Analyze employees with less than 10 hours between shifts but greater than 1 hour
+3. Analyze employees who worked for more than 14 hours in a single shift
+4. Exit
+4
+Exited.....
